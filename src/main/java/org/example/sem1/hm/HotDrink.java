@@ -30,9 +30,4 @@ public class HotDrink extends HotDrinksMachine {
         this.volume = volume;
     }
 
-    @Override
-    public String toString() {
-        return "name='" + name + '\'' +
-                ", volume=" + volume + '\''+ ',';
-    }
 }
