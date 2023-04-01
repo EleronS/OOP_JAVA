@@ -32,9 +32,7 @@ public class HotDrink extends HotDrinksMachine {
 
     @Override
     public String toString() {
-        return "HotDrink{" +
-                "name='" + name + '\'' +
-                ", volume=" + volume +
-                '}';
+        return "name='" + name + '\'' +
+                ", volume=" + volume + '\''+ ',';
     }
 }

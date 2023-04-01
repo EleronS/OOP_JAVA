@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b461174-e5f4-4ef2-9569-94ef3e0b771e" name="Changes" comment="Seminar1_java_lessons_homework">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotDrink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotDrinksMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotTea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/VendingMachine.java" afterDir="false" />
+    <list default="true" id="9b461174-e5f4-4ef2-9569-94ef3e0b771e" name="Changes" comment="Seminar1_java_lessons_homework_real2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotDrink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotTea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sem1/hm/HotTea.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680302720020</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Seminar1_java_lessons_homework_real2">
+      <created>1680360710768</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680360710768</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seminar1_java_lessons_classwork" />
     <MESSAGE value="Seminar1_java_lessons_homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seminar1_java_lessons_homework" />
+    <MESSAGE value="Seminar1_java_lessons_homework_real2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seminar1_java_lessons_homework_real2" />
   </component>
 </project>

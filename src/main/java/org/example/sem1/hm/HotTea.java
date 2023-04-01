@@ -19,4 +19,13 @@ public class HotTea extends HotDrink{
     public void setTemperature(Integer temperature) {
         this.temperature = temperature;
     }
+
+
+    @Override
+    public String toString() {
+        return  "Напиток '" + getName() + '\'' +
+                ",  'объем'  " + getVolume() + '\''+ "  температура' " + temperature;
+
+    }
 }
+
