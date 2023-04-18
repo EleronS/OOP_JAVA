@@ -3,10 +3,14 @@ package org.example.sem1.hm6.student;
 import org.example.sem1.hm6.teacher.Teacher;
 
 import java.util.List;
-
+/* deleted setStudent
+* deleted getTeacher
+* and setTeacher
+* students and Teacher field factor final
+ */
 public class StudentGroup implements Iterable<Student>{
-    private List<Student> students;
-    private Teacher teacher;
+    final List<Student> students;
+    final Teacher teacher;
 
     public StudentGroup(Teacher teacher, List<Student> students) {
         this.students = students;
@@ -17,17 +21,6 @@ public class StudentGroup implements Iterable<Student>{
         return students;
     }
 
-    public void setStudents(List<Student> students) {
-        this.students = students;
-    }
-
-    public Teacher getTeacher() {
-        return teacher;
-    }
-
-    public void setTeacher(Teacher teacher) {
-        this.teacher = teacher;
-    }
 
     @Override
     public String toString() {
