@@ -18,9 +18,7 @@ public class PasswordVerifier {
             if (!validatePassword(password)) {
                 throw new IllegalArgumentException("Пароль не соответствует правилам");
             }
-            if(validatePassword(password)){
-                System.out.println("Пароль соответствует правилам.");
-            }
+            System.out.println("Пароль соответствует правилам.");
         } catch (IllegalArgumentException e) {
             System.err.println("Ошибка: " + e.getMessage());
         }
